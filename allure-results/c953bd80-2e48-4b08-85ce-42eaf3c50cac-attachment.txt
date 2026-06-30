@@ -1,0 +1,6 @@
+Searched Product count Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 5285,
+  [Symbol(trigger_async_id_symbol)]: 5100,
+  [Symbol(kResourceStore)]: undefined
+}

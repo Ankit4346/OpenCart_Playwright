@@ -1,0 +1,11 @@
+Exception occurred while clicking 'My Account': Error: locator.click: Error: strict mode violation: getByRole('link', { name: 'My Account' }) resolved to 2 elements:
+    1) <a title="My Account" data-toggle="dropdown" class="dropdown-toggle" href="https://tutorialsninja.com/demo/index.php?route=account/account">…</a> aka getByRole('link', { name: ' My Account' })
+    2) <a href="https://tutorialsninja.com/demo/index.php?route=account/account">My Account</a> aka getByRole('link', { name: 'My Account', exact: true })
+
+Call log:
+  - waiting for getByRole('link', { name: 'My Account' })
+
+Exception occurred while clicking 'Register': Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for getByRole('link', { name: 'Register' })
+
